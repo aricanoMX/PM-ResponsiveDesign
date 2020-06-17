@@ -10,4 +10,4 @@
 
 - _Unicamente presiona el link que te dejo abajo_
 
-[Ver Proyecto](https://aricanomx.github.io/Arquitectura%20Frontend/Curso%20de%20Responsive%20Design/)
+[Ver Proyecto](https://aricanomx.github.io/PM-ResponsiveDesign/)
